@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergen-kele%c5%9f-8103651a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sergen-kele%c5%9f-8103651a9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sergen-kele%C5%9F-8103651a9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sergen-kele%c5%9f-8103651a9/" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/sergenn.keles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram.com/sergenn.keles" height="30" width="40" /></a>
 </p>
 
